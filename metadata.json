@@ -1,0 +1,11 @@
+{
+  "name": "Panel to Bottom",
+  "description": "Moves the top panel to the bottom of the screen",
+  "uuid": "panel-to-bottom@davron",
+  "shell-version": [
+    "46",
+    "47"
+  ],
+  "version": 1,
+  "url": "https://github.com/davronz/panel-to-bottom"
+}
